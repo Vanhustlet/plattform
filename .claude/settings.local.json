@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "mcp__54f90359-d47d-435c-b5ec-3c1396331e9a__get_project_url",
+      "mcp__54f90359-d47d-435c-b5ec-3c1396331e9a__get_publishable_keys"
+    ]
+  }
+}
